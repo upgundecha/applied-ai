@@ -20,10 +20,6 @@ describe('Checklist', function() {
       const expectedH2List = [
         '## Introduction',
         '## Organizations',
-        '## SRECon Mix Playlist',
-        '## Resources',
-        '## Credits',
-        '## Other How They... repos',
         '## Contributors',
         '## Contribute',
         '## Stargazers Over Time',
