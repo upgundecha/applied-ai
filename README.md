@@ -6,7 +6,7 @@
 
 ## Introduction
 
-__Applied AI__ Applied is a curated knowledge repository of Artificial Intelligence use cases, best practices, tools, and techniques, adopted by leading technology or tech-savvy organizations.
+__Applied AI__ is a curated knowledge repository of Artificial Intelligence use cases, best practices, tools, and techniques, adopted by leading technology or tech-savvy organizations.
 
 Numerous organizations frequently share their insights and expertise, encompassing best practices, tools, and techniques that shape their engineering culture. They do this through various public platforms such as engineering blogs, conferences, and meetups. This repository compiles and presents content gathered from these sources.
 
