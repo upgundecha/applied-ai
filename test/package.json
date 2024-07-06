@@ -1,0 +1,27 @@
+{
+  "name": "howtheysre",
+  "version": "1.0.0",
+  "description": "How They SRE",
+  "scripts": {
+    "test": "mocha main.spec.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/upgundecha/howtheysre.git"
+  },
+  "author": "upgundecha",
+  "license": "CC0 1.0 Universal",
+  "bugs": {
+    "url": "https://github.com/upgundecha/howtheysre/issues"
+  },
+  "homepage": "https://github.com/upgundecha/howtheysre#readme",
+  "devDependencies": {
+    "chai": "^4.3.6",
+    "chai-arrays": "^2.2.0",
+    "chai-string": "^1.5.0",
+    "eslint": "^7.32.0",
+    "eslint-config-google": "^0.14.0",
+    "mocha": "^10.1.0"
+  },
+  "dependencies": {}
+}

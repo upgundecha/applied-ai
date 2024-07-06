@@ -1,0 +1,27 @@
+name: CI
+
+on: [push, pull_request]
+
+jobs:
+  build:
+
+    runs-on: ubuntu-latest
+
+    steps:
+    - uses: actions/checkout@v1
+   
+    - name: Run markdown lint
+      uses: nosborn/github-action-markdown-cli@v1.1.1
+      with:
+        files: README.md
+        config_file: "./test/.markdownlint.json"
+   
+    - name: Node setup
+      uses: actions/setup-node@v1
+      with:
+        node-version: '16.x'
+    
+    - name: Run Checklist
+      shell: 'script -q -e -c "bash {0}"'
+      run: cd test && npm ci && npx eslint . && npm run test
+      
