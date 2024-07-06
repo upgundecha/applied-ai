@@ -1,8 +1,6 @@
-# How they SRE
+# Applied Artificial Intelligence and Machine Learning
 
 ![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square) [![CI](https://github.com/upgundecha/applied-ai/actions/workflows/workflow.yml/badge.svg)](https://github.com/upgundecha/applied-ai/actions/workflows/workflow.yml) [![CodeQL](https://github.com/upgundecha/applied-ai/actions/workflows/codeql.yml/badge.svg)](https://github.com/upgundecha/applied-ai/actions/workflows/codeql.yml)
-
-![Applied AI](headline.png)
 
 </br>
 
