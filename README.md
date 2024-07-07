@@ -52,8 +52,6 @@ Numerous organizations frequently share their insights and expertise, encompassi
 * [Improving Shopping Recommendations for Customers Through eBay’s Relevance Cascade Model](https://innovation.ebayinc.com/tech/engineering/improving-shopping-recommendations-for-customers-through-ebays-relevance-cascade-model/)
 * [Building a Deep Learning Based Retrieval System for Personalized Recommendations](https://innovation.ebayinc.com/tech/engineering/building-a-deep-learning-based-retrieval-system-for-personalized-recommendations/)
 
-
-
 </details>
 
 <details>
@@ -166,7 +164,6 @@ Numerous organizations frequently share their insights and expertise, encompassi
 * [Applying Machine Learning in Internal Audit with Sparsely Labeled Data](https://www.uber.com/en-GB/blog/ml-internal-audit/)
 
 </details>
-
 
 ## Contributors
 
