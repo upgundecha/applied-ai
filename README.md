@@ -61,7 +61,7 @@ Numerous organizations frequently share their insights and expertise, encompassi
 * [Monte Carlo, Puppetry and Laughter: The Unexpected Joys of Prompt Engineering](https://tech.instacart.com/monte-carlo-puppetry-and-laughter-the-unexpected-joys-of-prompt-engineering-4b9272e0c4eb)
 * [Unveiling the Core of Instacart’s Griffin 2.0: A Deep Dive into the Machine Learning Training Platform](https://tech.instacart.com/unveiling-the-core-of-instacarts-griffin-2-0-8ecb310c8d32)
 * [Introducing Griffin 2.0: Instacart’s Next-Gen ML Platform](https://tech.instacart.com/introducing-griffin-2-0-instacarts-next-gen-ml-platform-b7331e73b8d7)
-* [Scaling Productivity with Ava — Instacart’s Internal AI Assistant](https://tech.instacart.com/scaling-productivity-with-ava-instacarts-internal-ai-assistant-ed7f02558d84)
+* [Scaling Productivity with Ava — Instacart’s Internal AI Assistant](https://tech.instacart.com/scaling-productivity-with-ava-instacarts-internal-ai-assistant-ed7f02558d84)🚀
 * [Supercharging ML/AI Foundations at Instacart](https://tech.instacart.com/supercharging-ml-ai-foundations-at-instacart-d48214a2b511)
 * [Adopting dbt as the Data Transformation Tool at Instacart](https://tech.instacart.com/adopting-dbt-as-the-data-transformation-tool-at-instacart-36c74bc407df)
 * [The Next Era of Data at Instacart](https://tech.instacart.com/the-next-era-of-data-at-instacart-e081d8dfa162)
@@ -76,6 +76,36 @@ Numerous organizations frequently share their insights and expertise, encompassi
 
 
 </details>
+
+<details>
+  <summary>Uber</summary>
+
+### Blog Posts
+
+* [DataK9: Auto-categorizing an exabyte of data at field level through AI/ML](https://www.uber.com/en-SG/blog/auto-categorizing-data-through-ai-ml/?uclick_id=cf07346d-69fb-4a27-b296-493734813d6a)
+* [Personalized Marketing at Scale: Uber’s Out-of-App Recommendation System](https://www.uber.com/en-GB/blog/personalized-marketing-at-scale/)🚀
+* [DataK9: Auto-categorizing an exabyte of data at field level through AI/ML](https://www.uber.com/en-GB/blog/auto-categorizing-data-through-ai-ml/)🧰
+* [From Predictive to Generative – How Michelangelo Accelerates Uber’s AI Journey](https://www.uber.com/en-SG/blog/from-predictive-to-generative-ai/?uclick_id=cf07346d-69fb-4a27-b296-493734813d6a)
+* [DragonCrawl: Generative AI for High-Quality Mobile Testing](https://www.uber.com/en-SG/blog/generative-ai-for-high-quality-mobile-testing/?uclick_id=cf07346d-69fb-4a27-b296-493734813d6a)🚀
+* [Scaling AI/ML Infrastructure at Uber](https://www.uber.com/en-SG/blog/scaling-ai-ml-infrastructure-at-uber/?uclick_id=cf07346d-69fb-4a27-b296-493734813d6a)🏗️
+* [Stopping Uber Fraudsters Through Risk Challenges](https://www.uber.com/en-GB/blog/stopping-uber-fraudsters-through-risk-challenges/)🚀
+* [Model Excellence Scores: A Framework for Enhancing the Quality of Machine Learning Systems at Scale](https://www.uber.com/en-SG/blog/enhancing-the-quality-of-machine-learning-systems-at-scale/?uclick_id=cf07346d-69fb-4a27-b296-493734813d6a)
+* [The Transformative Power of Generative AI in Software Development: Lessons from Uber’s Tech-Wide Hackathon](https://www.uber.com/en-SG/blog/the-transformative-power-of-generative-ai/?uclick_id=cf07346d-69fb-4a27-b296-493734813d6a)
+* [Innovative Recommendation Applications Using Two Tower Embeddings at Uber](https://www.uber.com/en-SG/blog/innovative-recommendation-applications-using-two-tower-embeddings/?uclick_id=cf07346d-69fb-4a27-b296-493734813d6a)
+* [Demand and ETR Forecasting at Airports](https://www.uber.com/en-GB/blog/demand-and-etr-forecasting-at-airports/)🚀
+* [Applying Machine Learning in Internal Audit with Sparsely Labeled Data](https://www.uber.com/en-GB/blog/ml-internal-audit/)🚀
+* [Project RADAR: Intelligent Early Fraud Detection System with Humans in the Loop](https://www.uber.com/en-GB/blog/project-radar-intelligent-early-fraud-detection/)🚀
+* [DeepETA: How Uber Predicts Arrival Times Using Deep Learning](https://www.uber.com/en-GB/blog/deepeta-how-uber-predicts-arrival-times/)🚀
+* [Risk Entity Watch – Using Anomaly Detection to Fight Fraud](https://www.uber.com/en-IN/blog/risk-entity-watch/?uclick_id=9c4355d3-795f-4b1d-b18e-4b8b4c8ed29f)🚀
+* [Uber’s Real-Time Document Check](https://www.uber.com/en-GB/blog/ubers-real-time-document-check/)🚀
+* [How Uber Optimizes the Timing of Push Notifications using ML and Linear Programming](https://www.uber.com/en-SG/blog/how-uber-optimizes-push-notifications-using-ml/)🚀
+* [Accelerating Advertising Optimization: Unleashing the Power of Ads Simulation](https://www.uber.com/en-SG/blog/unleashing-the-power-of-ads-simulation/?uclick_id=92508acc-3a86-4fcc-bc5f-ba1799e3055e)🚀
+* [uVitals – An Anomaly Detection & Alerting System](https://www.uber.com/en-GB/blog/uvitals-an-anomaly-detection-alerting-system/)🚀
+* [ML Education at Uber: Program Design and Outcomes](https://www.uber.com/en-SG/blog/ml-education-at-uber-program-design-and-outcomes/?uclick_id=cf07346d-69fb-4a27-b296-493734813d6a)
+* [ML Education at Uber: Frameworks Inspired by Engineering Principles](https://www.uber.com/en-SG/blog/ml-education-at-uber/?uclick_id=cf07346d-69fb-4a27-b296-493734813d6a)
+
+</details>
+
 
 ## Contributors
 
