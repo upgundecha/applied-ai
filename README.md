@@ -114,7 +114,7 @@ Numerous organizations frequently share their insights and expertise, encompassi
 * [Arcadia: An end-to-end AI system performance simulator](https://engineering.fb.com/2023/09/07/data-infrastructure/arcadia-end-to-end-ai-system-performance-simulator/)
 * [MTIA v1: Meta’s first-generation AI inference accelerator](https://ai.meta.com/blog/meta-training-inference-accelerator-AI-MTIA/)
 
- #### 2022
+#### 2022
 
  * [Scaling data ingestion for machine learning training at Meta](https://engineering.fb.com/2022/09/19/ml-applications/data-ingestion-machine-learning-training-meta/)
 
