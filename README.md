@@ -87,6 +87,44 @@ Numerous organizations frequently share their insights and expertise, encompassi
 
 ### Blog Posts
 
+### Meta AI Blog and Research Papers
+
+* Various AI/ML research papers submitted by Meta are available [here](https://ai.meta.com/results/?content_types%5B0%5D=publication)
+* [Meta AI blog](https://ai.meta.com/blog/)
+
+#### 2024
+
+* [Leveraging AI for efficient incident response](https://engineering.fb.com/2024/06/24/data-infrastructure/leveraging-ai-for-efficient-incident-response/)
+* [Maintaining large-scale AI capacity at Meta](https://engineering.fb.com/2024/06/12/production-engineering/maintaining-large-scale-ai-capacity-meta/)
+* [Our next-generation Meta Training and Inference Accelerator](https://ai.meta.com/blog/next-generation-meta-training-inference-accelerator-AI-MTIA/)
+* [PVF: A novel metric for understanding AI systems’ vulnerability against SDCs in model parameters](https://engineering.fb.com/2024/06/19/data-infrastructure/parameter-vulnerability-factor-pvf-ai-silent-data-corruption/)
+* [Optimizing RTC bandwidth estimation with machine learning](https://engineering.fb.com/2024/03/20/networking-traffic/optimizing-rtc-bandwidth-estimation-machine-learning/)
+* [Logarithm: A logging engine for AI training workflows and services](https://engineering.fb.com/2024/03/18/data-infrastructure/logarithm-logging-engine-ai-training-workflows-services-meta/)
+* [Building Meta’s GenAI Infrastructure](https://engineering.fb.com/2024/03/12/data-center-engineering/building-metas-genai-infrastructure/)
+* [Improving machine learning iteration speed with faster application build and packaging](https://engineering.fb.com/2024/01/29/ml-applications/improving-machine-learning-iteration-speed-with-faster-application-build-and-packaging/)
+* [Lazy is the new fast: How Lazy Imports and Cinder accelerate machine learning at Meta](https://engineering.fb.com/2024/01/18/developer-tools/lazy-imports-cinder-machine-learning-meta/)
+* [How Meta is advancing GenAI](https://engineering.fb.com/2024/01/11/ml-applications/meta-advancing-genai/)
+* [Serverless Jupyter Notebooks at Meta](https://engineering.fb.com/2024/06/10/data-infrastructure/serverless-jupyter-notebooks-bento-meta/)
+* [Building custom silicon for the future of AI](https://www.metacareers.com/life/building-custom-silicon-for-the-future-of-ai/?ref=engineering.fb.com)
+
+#### 2023
+
+* [Introducing Code Llama, a state-of-the-art large language model for coding](https://ai.meta.com/blog/code-llama-large-language-model-coding/)
+* [Watch: Meta’s engineers on building network infrastructure for AI](https://engineering.fb.com/2023/11/15/networking-traffic/watch-metas-engineers-on-building-network-infrastructure-for-ai/)
+* [How Meta is creating custom silicon for AI](https://engineering.fb.com/2023/10/18/ml-applications/meta-ai-custom-silicon-olivia-wu/)
+* [AI debugging at Meta with HawkEye](https://engineering.fb.com/2023/12/19/data-infrastructure/hawkeye-ai-debugging-meta/)
+* [Arcadia: An end-to-end AI system performance simulator](https://engineering.fb.com/2023/09/07/data-infrastructure/arcadia-end-to-end-ai-system-performance-simulator/)
+* [MTIA v1: Meta’s first-generation AI inference accelerator](https://ai.meta.com/blog/meta-training-inference-accelerator-AI-MTIA/)
+
+ #### 2022
+
+ * [Scaling data ingestion for machine learning training at Meta](https://engineering.fb.com/2022/09/19/ml-applications/data-ingestion-machine-learning-training-meta/)
+
+#### 2021
+
+* [Fully Sharded Data Parallel: faster AI training with fewer GPUs](https://engineering.fb.com/2021/07/15/open-source/fsdp/)
+* [Asicmon: A platform agnostic observability system for AI accelerators](https://engineering.fb.com/2021/06/28/data-center-engineering/asicmon/)
+* [How machine learning powers Facebook’s News Feed ranking algorithm](https://engineering.fb.com/2021/01/26/ml-applications/news-feed-ranking/)
 
 </details>
 
