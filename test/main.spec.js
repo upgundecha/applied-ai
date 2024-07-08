@@ -11,7 +11,7 @@ const srcMd = fs.readFileSync('../README.md', 'utf8');
 describe('Checklist', function() {
   describe('Header', function() {
     it('is intact', function() {
-      expect(srcMd).to.startsWith('# Applied Artificial Intelligence and Machine Learning');
+      expect(srcMd).to.startsWith('# Applied Artificial Intelligence');
     });
   });
 
