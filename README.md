@@ -24,6 +24,106 @@ Numerous organizations frequently share their insights and expertise, encompassi
 ## Organizations
 
 <details>
+  <summary>Airbnb</summary>
+
+### Blog Posts
+
+#### 2024
+
+* [Chronon, Airbnb’s ML Feature Platform, Is Now Open Source](https://medium.com/airbnb-engineering/chronon-airbnbs-ml-feature-platform-is-now-open-source-d9c4dba859e8)
+* [Airbnb Brandometer: Powering Brand Perception Measurement on Social Media Data with AI](https://medium.com/airbnb-engineering/airbnb-brandometer-powering-brand-perception-measurement-on-social-media-data-with-ai-c83019408051)
+
+#### 2023
+
+* [Chronon — A Declarative Feature Engineering Framework](https://medium.com/airbnb-engineering/chronon-a-declarative-feature-engineering-framework-b7b8ce796e04)
+* [Prioritizing Home Attributes Based on Guest Interest](https://medium.com/airbnb-engineering/prioritizing-home-attributes-based-on-guest-interest-3c49b827e51a)
+* [Learning To Rank Diversely](https://medium.com/airbnb-engineering/learning-to-rank-diversely-add6b1929621)
+* [Building Airbnb Categories with ML & Human in the Loop](https://medium.com/airbnb-engineering/building-airbnb-categories-with-ml-human-in-the-loop-35b78a837725)
+* [Wisdom of Unstructured Data: Building Airbnb’s Listing Knowledge from Big Text Data](https://medium.com/airbnb-engineering/wisdom-of-unstructured-data-building-airbnbs-listing-knowledge-from-big-text-data-7c533466a63c)
+
+#### 2022
+
+* [Building Airbnb Categories with ML and Human-in-the-Loop](https://medium.com/airbnb-engineering/building-airbnb-categories-with-ml-and-human-in-the-loop-e97988e70ebb)
+* [How AI Text Generation Models Are Reshaping Customer Support at Airbnb](https://medium.com/airbnb-engineering/how-ai-text-generation-models-are-reshaping-customer-support-at-airbnb-a851db0b4fa3)
+* [Intelligent Automation Platform: Empowering Conversational AI and Beyond at Airbnb](https://medium.com/airbnb-engineering/intelligent-automation-platform-empowering-conversational-ai-and-beyond-at-airbnb-869c44833ff2)
+
+#### 2021
+
+* [Automating Data Protection at Scale, Part 2](https://medium.com/airbnb-engineering/automating-data-protection-at-scale-part-2-c2b8d2068216)
+
+#### 2020
+
+* [Improving Deep Learning for Ranking Stays at Airbnb](https://medium.com/airbnb-engineering/improving-deep-learning-for-ranking-stays-at-airbnb-959097638bde)
+
+</details>
+
+<details>
+  <summary>Algolia</summary>
+
+### Blog Posts
+
+#### 2024
+
+* [Introducing AI Personalization (𝛽)](https://www.algolia.com/blog/product/introducing-ai-personalization/)
+* [How large-language models are changing ecommerce](https://www.algolia.com/blog/ai/llms-changing-ecommerce/)
+* [What does it mean for AI search to “understand” customers?](https://www.algolia.com/blog/ecommerce/ai-understands-customers/)
+* [The future of B2B is powered by AI. Here’s how to get started.](https://www.algolia.com/blog/ecommerce/the-future-of-b2b-is-powered-by-ai-heres-how-to-get-started/)
+* [The definitive guide to semantic search engines](https://www.algolia.com/blog/ai/the-definitive-guide-to-semantic-search-engines/)
+
+#### 2023
+
+* [Feature Spotlight: Query Suggestions](https://www.algolia.com/blog/product/feature-spotlight-query-suggestions/)
+
+</details>
+
+<details>
+  <summary>Asos</summary>
+
+### Blog Posts
+
+#### 2024
+
+* [ASOS Tech GenAI Hack: Revolutionising requirements with GenAI](https://medium.com/asos-techblog/asos-gen-ai-hack-day-a-tale-of-innovation-b1583ab545dd)
+* [Transforming Recommendations at ASOS](https://medium.com/asos-techblog/transforming-recommendations-at-asos-254b95c6a07a)
+
+</details>
+
+<details>
+  <summary>Autotrader</summary>
+
+### Blog Posts
+
+#### 2024
+
+* [Demystifying Large Language Models (LLM101)](https://engineering.autotrader.co.uk/2024/07/04/llm-101.html)
+* [To App or Not to App (Rapid Data App Prototyping in the ML Experimentation Cycle)](https://engineering.autotrader.co.uk/2024/06/17/to-app-or-not-to-app-rapid-data-app-prototyping-in-the-ml-experimentation-cycle.html)
+* [So many labels, so little time; accelerating our image labelling process](https://engineering.autotrader.co.uk/2024/05/31/image-labels.html)
+
+#### 2023
+
+* [Demonstrating the Value of our Packages](https://engineering.autotrader.co.uk/2023/03/24/demonstrating-the-value-of-our-advertising-packages.html)
+
+#### 2022
+
+* [Real-Time Personalisation of Search Results with Auto Trader's Customer Data Platform](https://engineering.autotrader.co.uk/2022/11/23/real-time-personalisation-of-search-results-with-auto-traders-customer-data-platform.html)
+
+</details>
+
+<details>
+  <summary>BlaBlaCar</summary>
+
+### Blog Posts
+
+#### 2023
+
+* [How we used machine learning to fight fraud at BlaBlaCar — Part 1](https://medium.com/blablacar/how-we-used-machine-learning-to-fight-fraud-at-blablacar-part-1-3b976c9dcdf6)
+* [How we built our machine learning pipeline to fight fraud at BlaBlaCar — Part 2](https://medium.com/blablacar/how-we-built-our-machine-learning-pipeline-to-fight-fraud-at-blablacar-part-2-476335f459b4)
+* [How BlaBlaCar leverages machine learning to match passengers and drivers - Part 2](https://medium.com/blablacar/how-blablacar-leverages-machine-learning-to-match-passengers-and-drivers-part-2-5c69c7dd5105)
+* [How BlaBlaCar leverages machine learning to match passengers and drivers - Part 1](https://medium.com/blablacar/how-blablacar-matches-passengers-and-drivers-with-machine-learning-1cf151451f)
+
+</details>
+
+<details>
   <summary>eBay</summary>
 
 ### Blog Posts
@@ -116,7 +216,7 @@ Numerous organizations frequently share their insights and expertise, encompassi
 
 #### 2022
 
- * [Scaling data ingestion for machine learning training at Meta](https://engineering.fb.com/2022/09/19/ml-applications/data-ingestion-machine-learning-training-meta/)
+* [Scaling data ingestion for machine learning training at Meta](https://engineering.fb.com/2022/09/19/ml-applications/data-ingestion-machine-learning-training-meta/)
 
 #### 2021
 
