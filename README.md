@@ -268,6 +268,7 @@ Numerous organizations frequently share their insights and expertise, encompassi
 * [Elevating Conversational AI with Dynamic Data and APIs via OpenAI Function Calling](https://medium.com/slalom-build/elevating-conversational-ai-with-dynamic-data-and-apis-via-openai-function-calling-cad556c01ccf)
 * [Behind the Large Language Models: Word Embedding](https://medium.com/slalom-build/behind-the-large-language-models-word-embedding-a19587cc8cd4)
 
+</details>
 
 <details>
   <summary>Uber</summary>
