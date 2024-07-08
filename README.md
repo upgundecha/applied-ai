@@ -155,6 +155,39 @@ Numerous organizations frequently share their insights and expertise, encompassi
 </details>
 
 <details>
+  <summary>GitHub</summary>
+
+### Blogs
+
+#### 2024
+
+* [Unlocking the power of unstructured data with RAG](https://github.blog/2024-06-13-unlocking-the-power-of-unstructured-data-with-rag/)
+* [What is retrieval-augmented generation, and what does it do for generative AI?](https://github.blog/2024-04-04-what-is-retrieval-augmented-generation-and-what-does-it-do-for-generative-ai/)
+* [Hard and soft skills for developers coding in the age of AI](https://github.blog/2024-03-07-hard-and-soft-skills-for-developers-coding-in-the-age-of-ai/)
+* [How AI code generation works](https://github.blog/2024-02-22-how-ai-code-generation-works/)
+* [Fixing security vulnerabilities with AI](https://github.blog/2024-02-14-fixing-security-vulnerabilities-with-ai/)
+* [A developer’s second brain: Reducing complexity through partnership with AI](https://github.blog/2024-01-17-a-developers-second-brain-reducing-complexity-through-partnership-with-ai/)
+
+#### 2023
+
+* [How we’re experimenting with LLMs to evolve GitHub Copilot](https://github.blog/2023-12-06-how-were-experimenting-with-llms-to-evolve-github-copilot/)
+* [The architecture of today’s LLM applications](https://github.blog/2023-10-30-the-architecture-of-todays-llm-applications/)
+* [Demystifying LLMs: How they can do things they weren’t trained to do](https://github.blog/2023-10-27-demystifying-llms-how-they-can-do-things-they-werent-trained-to-do/)
+* [How to build an enterprise LLM application: Lessons from GitHub Copilot](https://github.blog/2023-09-06-how-to-build-an-enterprise-llm-application-lessons-from-github-copilot/)
+* [A developer’s guide to prompt engineering and LLMs](https://github.blog/2023-07-17-prompt-engineering-guide-generative-ai-llms/)
+* [Inside GitHub: Working with the LLMs behind GitHub Copilot](https://github.blog/2023-05-17-inside-github-working-with-the-llms-behind-github-copilot/)
+* [How companies are boosting productivity with generative AI](https://github.blog/2023-05-09-how-companies-are-boosting-productivity-with-generative-ai/)
+* [How generative AI is changing the way developers work](https://github.blog/2023-04-14-how-generative-ai-is-changing-the-way-developers-work/)
+* [Generative AI-enabled compliance for software development](https://github.blog/2023-04-11-generative-ai-enabled-compliance-for-software-development/)
+* [What developers need to know about generative AI](https://github.blog/2023-04-07-what-developers-need-to-know-about-generative-ai/)
+
+#### 2022
+
+* [Exciting new GitHub features powering machine learning](https://github.blog/2022-11-22-exciting-new-github-features-powering-machine-learning/)
+
+</details>
+
+<details>
   <summary>Instacart</summary>
 
 ### Blog Posts
