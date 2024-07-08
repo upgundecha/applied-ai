@@ -181,6 +181,30 @@ Numerous organizations frequently share their insights and expertise, encompassi
 </details>
 
 <details>
+  <summary>Mercari</summary>
+
+### Blog Posts
+
+#### 2024
+
+* [LM-based Approach to Large-scale Item Category Classification](https://engineering.mercari.com/en/blog/entry/20240411-large-scale-item-categoraization-using-llm/)
+* 
+
+#### 2023
+
+* [LM-based query categorization for query understanding](https://engineering.mercari.com/en/blog/entry/20231222-language-model-based-query-categorization-for-query-understanding/)
+* [Leveraging LLMs in Production: Looking Back, Going Forward](https://engineering.mercari.com/en/blog/entry/20231219-leveraging-llms-in-production-looking-back-going-forward/)
+* [The Bitter Lesson about Engineers in a ChatGPT World](https://engineering.mercari.com/en/blog/entry/20231128-the-bitter-lesson-about-engineers-in-a-chatgpt-world/)
+* [Putting the Voice of Customers into the Software Development Process](https://engineering.mercari.com/en/blog/entry/20231017-putting-the-voice-of-customers-into-the-software-development-process/)
+* [Mercari’s Journey Integrating AI & Search at Berlin Buzzwords 2023](https://engineering.mercari.com/en/blog/entry/20230626-mercaris-journey-integrating-ai-search-at-berlin-buzzwords-2023/)
+* [Improving Item Recommendation Accuracy Using Collaborative Filtering and Vector Search Engine](https://engineering.mercari.com/en/blog/entry/20230612-cf-similar-item/)
+* [Model management for client side ML powered by Firebase](https://engineering.mercari.com/en/blog/entry/20230417-model-management-for-client-side-ml-powered-by-firebase/)
+* [The Journey to Machine-Learned Re-ranking](https://engineering.mercari.com/en/blog/entry/20230101-the-journey-to-machine-learned-re-ranking/)
+* [Do We Need Engineers in a ChatGPT World?](https//engineering.mercari.com/en/blog/entry/20221215-do-we-need-engineers-in-a-chatgpt-world/)
+
+</details>
+
+<details>
   <summary>Meta</summary>
 
 ### Blog Posts
@@ -225,6 +249,25 @@ Numerous organizations frequently share their insights and expertise, encompassi
 * [How machine learning powers Facebook’s News Feed ranking algorithm](https://engineering.fb.com/2021/01/26/ml-applications/news-feed-ranking/)
 
 </details>
+
+<details>
+  <summary>Slalom Build</summary>
+
+### Blog Posts
+
+#### 2024
+
+* [The Secret to Success in Large-Scale Data Engineering Projects](https://medium.com/slalom-build/the-secret-to-success-in-large-scale-data-engineering-projects-b4698223c1cc)
+* [Generative AI Prompt Engineering: A Balancing Act](https://medium.com/slalom-build/generative-ai-prompt-engineering-a-balancing-act-3c9b2847d14c)
+* [RAG for Quality Engineers](https://medium.com/slalom-build/rag-for-quality-engineers-c5f0828292b1)
+* [Feeding AI Models with Slack Data](https://medium.com/slalom-build/feeding-ai-models-with-slack-data-8106550f6485)
+* [Keeping the Human in the Loop](https://medium.com/slalom-build/keeping-the-human-in-the-loop-43fe975529db)
+
+#### 2023
+
+* [Elevating Conversational AI with Dynamic Data and APIs via OpenAI Function Calling](https://medium.com/slalom-build/elevating-conversational-ai-with-dynamic-data-and-apis-via-openai-function-calling-cad556c01ccf)
+* [Behind the Large Language Models: Word Embedding](https://medium.com/slalom-build/behind-the-large-language-models-word-embedding-a19587cc8cd4)
+
 
 <details>
   <summary>Uber</summary>
