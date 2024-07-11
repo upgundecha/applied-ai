@@ -124,6 +124,32 @@ Numerous organizations frequently share their insights and expertise, encompassi
 </details>
 
 <details>
+  <summary>Dropbox</summary>
+
+### Blog Posts
+
+#### 2024
+
+* [Bye Bye Bye...: Evolution of repeated token attacks on ChatGPT models](https://dropbox.tech/machine-learning/bye-bye-bye-evolution-of-repeated-token-attacks-on-chatgpt-models)
+* [Bringing AI-powered answers and summaries to file previews on the web](https://dropbox.tech/machine-learning/bringing-ai-powered-answers-and-summaries-to-file-previews-on-the-web)
+* [From AI to sustainability, why our latest data centers use 400G networking](https://dropbox.tech/infrastructure/from-ai-to-sustainability-why-our-latest-data-centers-use-400g-networking)
+
+#### 2023
+
+* [Putting everything in its right place with ML-powered file organization](https://dropbox.tech/machine-learning/smart-move-ml-ai-file-organization-automation)
+* [Is this a date? Using ML to identify date formats in file names](https://dropbox.tech/machine-learning/using-ml-to-identify-date-formats-in-file-names)
+* [Dont you (forget NLP): Prompt injection with control characters in ChatGPT](https://dropbox.tech/machine-learning/prompt-injection-with-control-characters-openai-chatgpt-llm)
+* [Accelerating our A/B experiments with machine learning](https://dropbox.tech/machine-learning/accelerating-our-a-b-experiments-with-machine-learning-xr)
+
+#### 2021
+
+* [Optimizing payments with machine learning](https://dropbox.tech/machine-learning/optimizing-payments-with-machine-learning)
+* [How image search works at Dropbox](https://dropbox.tech/machine-learning/how-image-search-works-at-dropbox)
+* [Cannes: How ML saves us $1.7M a year on document previews](https://dropbox.tech/machine-learning/cannes--how-ml-saves-us--1-7m-a-year-on-document-previews)
+
+</details>
+
+<details>
   <summary>eBay</summary>
 
 ### Blog Posts
@@ -339,6 +365,34 @@ Numerous organizations frequently share their insights and expertise, encompassi
 #### 2021
 
 * [Applying Machine Learning in Internal Audit with Sparsely Labeled Data](https://www.uber.com/en-GB/blog/ml-internal-audit/)
+
+</details>
+
+<details>
+  <summary>Walmart</summary>
+
+### Blog Posts
+
+#### 2024
+
+* [AI-Driven Continuous Monitoring: The Future of Third-Party Risk Management](https://medium.com/walmartglobaltech/ai-driven-continuous-monitoring-the-future-of-third-party-risk-management-01e40e789d99)
+* [Build your own GPT (BYO-GPT)](https://medium.com/walmartglobaltech/build-your-own-gpt-byo-gpt-bb440c98d36f)
+* [Textual Titans: A Large Language Model Odyssey](https://medium.com/walmartglobaltech/textual-titans-a-large-language-model-odyssey-d36eab1e2743)
+* [Evaluation of RAG Metrics using RAGA](https://medium.com/walmartglobaltech/evaluation-of-rag-metrics-using-raga-0cd9bf001a76)
+* [Deploying RAGs in production — Part 2](https://medium.com/walmartglobaltech/deploying-rags-in-production-part-2-ae36f723c0c7)
+* [Deploying RAGs in production — Part 1](https://medium.com/walmartglobaltech/deploying-rags-in-production-part-1-b31e566f81b8)
+* [Extracting Product Attributes from PDFs using PAE Framework](https://medium.com/walmartglobaltech/extracting-product-attributes-from-pdfs-using-pae-framework-17889c73fdd4)
+* [Augmentation Techniques for Imbalanced text Classification](https://medium.com/walmartglobaltech/augmentation-techniques-for-imbalanced-text-classification-f0d29c0f8ce1)
+* [Transforming Text Classification with Semantic Search Techniques — Faiss](https://medium.com/walmartglobaltech/transforming-text-classification-with-semantic-search-techniques-faiss-c413f133d0e2)
+
+#### 2023
+
+* [Machine Learning Platform at Walmart](https://medium.com/walmartglobaltech/machine-learning-platform-at-walmart-b06819825ef7)
+* [Training Large Language Model (LLM) on your data](https://medium.com/walmartglobaltech/training-large-language-model-llm-on-your-data-2139eaad5f4f)
+
+#### 2022
+
+* [Saving and Retrieving ML Models Using PySpark in Cloud Platform](https://medium.com/walmartglobaltech/saving-and-retrieving-ml-models-using-pyspark-in-cloud-platform-d8b1db9e91b1)
 
 </details>
 
