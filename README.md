@@ -183,6 +183,58 @@ Numerous organizations frequently share their insights and expertise, encompassi
 </details>
 
 <details>
+  <summary>Etsy</summary>
+
+### Blog Posts
+
+#### 2024
+
+* [Efficient Visual Representation Learning And Evaluation](https://www.etsy.com/codeascraft/efficient-visual-representation-learning-and-evaluation)
+
+#### 2023
+
+* [How We Built a Multi-Task Canonical Ranker for Recommendations at Etsy](https://www.etsy.com/uk/codeascraft/how-we-built-a-multi-task-canonical-ranker-for-recommendations-at-etsy)
+* [Leveraging Real-Time User Actions to Personalize Etsy Ads](https://arxiv.org/pdf/2302.01255.pdf)
+* [From Image Classification to Multitask Modeling: Building Etsy’s Search by Image Feature](https://www.etsy.com/codeascraft/from-image-classification-to-multitask-modeling-building-etsys-search-by-image-feature)
+* [Leveraging Real-Time User Actions to Personalize Etsy Ads](https://www.etsy.com/uk/codeascraft/leveraging-real-time-user-actions-to-personalize-etsy-ads)
+
+#### 2022
+
+* [Deep Learning for Search Ranking at Etsy](https://www.etsy.com/uk/codeascraft/deep-learning-for-search-ranking-at-etsy)
+
+</details>
+
+<details>
+  <summary>Expedia</summary>
+
+### Blog Posts
+
+#### 2024
+
+* [Learning Embeddings for Lodging Travel Concepts](https://medium.com/expedia-group-tech/learning-embeddings-for-lodging-travel-concepts-99165700cdbd)
+* [Traveling Just Got a Lot Smarter with Romie](https://medium.com/expedia-group-tech/traveling-just-got-a-whole-lot-smarter-with-romie-dfb9b21c07c5)
+* [Choosing the Right Candidates for Lodging Ranking](https://medium.com/expedia-group-tech/choosing-the-right-candidates-for-lodging-ranking-d0841bf40c0e)
+
+#### 2023
+
+* [Using Synthetic Search Data for Flights Price Forecasting](https://medium.com/expedia-group-tech/using-synthetic-search-data-for-flights-price-forecasting-4cf3277afdaf)
+* [Expedia Group’s Customer Lifetime Value Prediction Model](https://medium.com/expedia-group-tech/expedia-groups-customer-lifetime-value-prediction-model-7927cdd44342)
+* [Generating Diverse Travel Recommendations](https://medium.com/expedia-group-tech/generating-diverse-travel-recommendations-76688f49c812)
+* [Increasing Travelers’ Engagement Through Price Alerts](https://medium.com/expedia-group-tech/increasing-travelers-engagement-through-relevant-price-alerts-at-expedia-group-75aa6a377864)
+* [Candidate Generation Using a Two Tower Approach With Expedia Group Traveler Data](https://medium.com/expedia-group-tech/candidate-generation-using-a-two-tower-approach-with-expedia-group-traveler-data-ca6a0dcab83e)
+
+#### 2022
+
+* [Categorising Customer Feedback Using Unsupervised Learning](https://medium.com/expedia-group-tech/categorising-customer-feedback-using-unsupervised-learning-8608c1e62d48)
+* [How to Optimise Rankings with Cascade Bandits](https://medium.com/expedia-group-tech/how-to-optimise-rankings-with-cascade-bandits-5d92dfa0f16b)
+
+#### 2021
+
+* [Personalized Ranking Model for Lodging](https://medium.com/expedia-group-tech/personalized-ranking-model-for-lodging-5be43ae975fe)
+
+</details>
+
+<details>
   <summary>GitHub</summary>
 
 ### Blogs
@@ -249,7 +301,6 @@ Numerous organizations frequently share their insights and expertise, encompassi
 #### 2024
 
 * [LM-based Approach to Large-scale Item Category Classification](https://engineering.mercari.com/en/blog/entry/20240411-large-scale-item-categoraization-using-llm/)
-* 
 
 #### 2023
 
