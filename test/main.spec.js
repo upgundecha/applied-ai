@@ -51,7 +51,7 @@ describe('Checklist', function() {
       const uniqueDuplicates = [...new Set(duplicates)];
       console.log('Duplicate items:', uniqueDuplicates);
       const hasDuplicate = uniqueDuplicates.length > 0;
-      expect(hasDuplicate).to.equal(false, 'List has link text');  
+      expect(hasDuplicate).to.equal(false, 'List has link text');
     });
     it('has unique urls', function() {
       const items = srcMd.match(/(?<=\* \[*.*\]\()(.*?)(?=\))/g);
