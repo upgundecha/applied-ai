@@ -39,13 +39,19 @@ describe('Checklist', function() {
   describe('Uniqueness', function() {
     it('has unique items', function() {
       const items = srcMd.match(/(?<=\* )(.*?)(?=\))/g);
-      const hasDuplicate = items.some((val, i) => items.indexOf(val) !== i);
+      const duplicates = items.filter((val, i, arr) => arr.indexOf(val) !== i);
+      const uniqueDuplicates = [...new Set(duplicates)];
+      console.log('Duplicate items:', uniqueDuplicates);
+      const hasDuplicate = uniqueDuplicates.length > 0;
       expect(hasDuplicate).to.equal(false, 'List has duplicate items');
     });
     it('has unique link text', function() {
       const items = srcMd.match(/(?<=\* \[)(.*?)(?=\])/g);
-      const hasDuplicate = items.some((val, i) => items.indexOf(val) !== i);
-      expect(hasDuplicate).to.equal(false, 'List has duplicate text');
+      const duplicates = items.filter((val, i, arr) => arr.indexOf(val) !== i);
+      const uniqueDuplicates = [...new Set(duplicates)];
+      console.log('Duplicate items:', uniqueDuplicates);
+      const hasDuplicate = uniqueDuplicates.length > 0;
+      expect(hasDuplicate).to.equal(false, 'List has link text');  
     });
     it('has unique urls', function() {
       const items = srcMd.match(/(?<=\* \[*.*\]\()(.*?)(?=\))/g);

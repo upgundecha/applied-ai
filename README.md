@@ -37,7 +37,6 @@ Numerous organizations frequently share their insights and expertise, encompassi
 
 #### 2023
 
-* [Chronon — A Declarative Feature Engineering Framework](https://medium.com/airbnb-engineering/chronon-a-declarative-feature-engineering-framework-b7b8ce796e04)
 * [Prioritizing Home Attributes Based on Guest Interest](https://medium.com/airbnb-engineering/prioritizing-home-attributes-based-on-guest-interest-3c49b827e51a)
 * [Learning To Rank Diversely](https://medium.com/airbnb-engineering/learning-to-rank-diversely-add6b1929621)
 * [Building Airbnb Categories with ML & Human in the Loop](https://medium.com/airbnb-engineering/building-airbnb-categories-with-ml-human-in-the-loop-35b78a837725)
@@ -45,7 +44,6 @@ Numerous organizations frequently share their insights and expertise, encompassi
 
 #### 2022
 
-* [Building Airbnb Categories with ML and Human-in-the-Loop](https://medium.com/airbnb-engineering/building-airbnb-categories-with-ml-and-human-in-the-loop-e97988e70ebb)
 * [How AI Text Generation Models Are Reshaping Customer Support at Airbnb](https://medium.com/airbnb-engineering/how-ai-text-generation-models-are-reshaping-customer-support-at-airbnb-a851db0b4fa3)
 * [Intelligent Automation Platform: Empowering Conversational AI and Beyond at Airbnb](https://medium.com/airbnb-engineering/intelligent-automation-platform-empowering-conversational-ai-and-beyond-at-airbnb-869c44833ff2)
 
@@ -194,7 +192,7 @@ Numerous organizations frequently share their insights and expertise, encompassi
 #### 2023
 
 * [How We Built a Multi-Task Canonical Ranker for Recommendations at Etsy](https://www.etsy.com/uk/codeascraft/how-we-built-a-multi-task-canonical-ranker-for-recommendations-at-etsy)
-* [Leveraging Real-Time User Actions to Personalize Etsy Ads](https://arxiv.org/pdf/2302.01255.pdf)
+* [Leveraging Real-Time User Actions to Personalize Etsy Ads - Research Paper](https://arxiv.org/pdf/2302.01255.pdf)
 * [From Image Classification to Multitask Modeling: Building Etsy’s Search by Image Feature](https://www.etsy.com/codeascraft/from-image-classification-to-multitask-modeling-building-etsys-search-by-image-feature)
 * [Leveraging Real-Time User Actions to Personalize Etsy Ads](https://www.etsy.com/uk/codeascraft/leveraging-real-time-user-actions-to-personalize-etsy-ads)
 
