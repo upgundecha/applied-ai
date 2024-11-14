@@ -124,6 +124,20 @@ Numerous organizations frequently share their insights and expertise, encompassi
 </details>
 
 <details>
+  <summary>BlaBlaCar</summary>
+
+### Blog Posts
+
+#### 2023
+
+* [How we used machine learning to fight fraud at BlaBlaCar — Part 1](https://medium.com/blablacar/how-we-used-machine-learning-to-fight-fraud-at-blablacar-part-1-3b976c9dcdf6)
+* [How we built our machine learning pipeline to fight fraud at BlaBlaCar — Part 2](https://medium.com/blablacar/how-we-built-our-machine-learning-pipeline-to-fight-fraud-at-blablacar-part-2-476335f459b4)
+* [How BlaBlaCar leverages machine learning to match passengers and drivers - Part 2](https://medium.com/blablacar/how-blablacar-leverages-machine-learning-to-match-passengers-and-drivers-part-2-5c69c7dd5105)
+* [How BlaBlaCar leverages machine learning to match passengers and drivers - Part 1](https://medium.com/blablacar/how-blablacar-matches-passengers-and-drivers-with-machine-learning-1cf151451f)
+
+</details>
+
+<details>
   <summary>Brian Impact Foundation</summary>
 
 ### Blog Posts
@@ -142,20 +156,6 @@ Numerous organizations frequently share their insights and expertise, encompassi
 #### 2024
 
 * [Coinbase enhances customer support and operational efficiency with Claude](https://www.anthropic.com/customers/coinbase)
-
-</details>
-
-<details>
-  <summary>BlaBlaCar</summary>
-
-### Blog Posts
-
-#### 2023
-
-* [How we used machine learning to fight fraud at BlaBlaCar — Part 1](https://medium.com/blablacar/how-we-used-machine-learning-to-fight-fraud-at-blablacar-part-1-3b976c9dcdf6)
-* [How we built our machine learning pipeline to fight fraud at BlaBlaCar — Part 2](https://medium.com/blablacar/how-we-built-our-machine-learning-pipeline-to-fight-fraud-at-blablacar-part-2-476335f459b4)
-* [How BlaBlaCar leverages machine learning to match passengers and drivers - Part 2](https://medium.com/blablacar/how-blablacar-leverages-machine-learning-to-match-passengers-and-drivers-part-2-5c69c7dd5105)
-* [How BlaBlaCar leverages machine learning to match passengers and drivers - Part 1](https://medium.com/blablacar/how-blablacar-matches-passengers-and-drivers-with-machine-learning-1cf151451f)
 
 </details>
 
