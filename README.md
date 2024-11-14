@@ -131,7 +131,7 @@ Numerous organizations frequently share their insights and expertise, encompassi
 #### 2024
 
 * [Brian Impact Foundation powers their search for the next generation of social innovators with Claude](https://www.anthropic.com/customers/brian-impact-foundation)
- 
+
 </details>
 
 <details>
@@ -314,6 +314,20 @@ Numerous organizations frequently share their insights and expertise, encompassi
 </details>
 
 <details>
+  <summary>GoDaddy</summary>
+
+### Blogs
+
+#### 2024
+
+* [Generative AI Domain Search](https://www.godaddy.com/resources/news/generative-ai-domain-search)
+* [From Text to Transformers: How LLMs Are Enhancing GoDaddy’s CMS Experience](https://www.godaddy.com/resources/news/from-text-to-transformers-how-llms-are-enhancing-godaddys-cms-experience)
+* [LLM From the Trenches: 10 Lessons Learned Operationalizing Models at GoDaddy](https://www.godaddy.com/resources/news/llm-from-the-trenches-10-lessons-learned-operationalizing-models-at-godaddy)
+* [Everything I’ve Learned Building an AI App](https://www.godaddy.com/resources/news/everything-ive-learned-building-an-ai-app)
+
+</details>
+
+<details>
   <summary>Grab</summary>
 
 ### Blog Posts
@@ -363,6 +377,18 @@ Numerous organizations frequently share their insights and expertise, encompassi
 * [Adopting dbt as the Data Transformation Tool at Instacart](https://tech.instacart.com/adopting-dbt-as-the-data-transformation-tool-at-instacart-36c74bc407df)
 * [The Next Era of Data at Instacart](https://tech.instacart.com/the-next-era-of-data-at-instacart-e081d8dfa162)
 * [How Instacart Modernized the Prediction of Real Time Availability for Hundreds of Millions of Items While Saving Costs](https://tech.instacart.com/how-instacart-modernized-the-prediction-of-real-time-availability-for-hundreds-of-millions-of-items-59b2a82c89fe)
+
+</details>
+
+<details>
+  <summary>LinkedIn</summary>
+
+### Blog Posts
+
+#### 2024
+
+* [Enhancing LinkedIn’s security posture management with AI-driven insights](https://www.linkedin.com/blog/engineering/security/enhancing-linkedins-security-posture-management-with-ai-driven-insights)
+* [Under the hood: the tech behind the first agent from LinkedIn, Hiring Assistant](https://www.linkedin.com/blog/engineering/generative-ai/the-tech-behind-the-first-agent-from-linkedin-hiring-assistant)
 
 </details>
 
@@ -437,6 +463,17 @@ Numerous organizations frequently share their insights and expertise, encompassi
 </details>
 
 <details>
+  <summary>Microsoft</summary>
+
+### Blog Posts
+
+#### 2024
+
+* [Anatomy of a Copilot](https://www.microsoft.com/en-us/worklab/anatomy-of-a-copilot)
+
+</details>
+
+<details>
   <summary>Notion</summary>
 
 ### Blog Posts
@@ -450,6 +487,17 @@ Numerous organizations frequently share their insights and expertise, encompassi
 </details>
 
 <details>
+  <summary>Nubank</summary>
+
+### Blog Posts
+
+#### 2024
+
+* [AI at Nubank: how one of the largest digital banks in the world uses artificial intelligence](https://building.nubank.com.br/ai-at-nubank-how-one-of-the-largest-digital-banks-in-the-world-uses-artificial-intelligence/)
+
+</details>
+
+<details>
   <summary>Scribd</summary>
 
 ### Blog Posts
@@ -457,6 +505,19 @@ Numerous organizations frequently share their insights and expertise, encompassi
 #### 2024
 
 * [Scribd, Inc. boosts content discovery and engagement with Claude](https://www.anthropic.com/customers/scribd)
+
+</details>
+
+<details>
+  <summary>Slack</summary>
+
+### Blog Posts
+
+#### 2024
+
+* [Empowering Engineers with AI](https://slack.engineering/empowering-engineers-with-ai/)
+* [Balancing Old Tricks with New Feats: AI-Powered Conversion From Enzyme to React Testing Library at Slack](https://slack.engineering/balancing-old-tricks-with-new-feats-ai-powered-conversion-from-enzyme-to-react-testing-library-at-slack/)
+* [How We Built Slack AI To Be Secure and Private](https://slack.engineering/how-we-built-slack-ai-to-be-secure-and-private/)
 
 </details>
 
@@ -488,8 +549,6 @@ Numerous organizations frequently share their insights and expertise, encompassi
 #### 2024
 
 * [Sourcegraph enhances the intelligence and speed of their AI-powered coding assistant with Claude](https://www.anthropic.com/customers/sourcegraph)
-
-
 
 </details>
 
@@ -542,6 +601,10 @@ Numerous organizations frequently share their insights and expertise, encompassi
 
 #### 2024
 
+* [Managing Secure API Access to LLMs in Distributed Systems with Dataflow](https://medium.com/walmartglobaltech/managing-secure-api-access-to-llms-in-distributed-systems-with-dataflow-d895e11b8912)
+* [Creating Web App For File Interactions Using RAG: A Developers Guide](https://medium.com/walmartglobaltech/creating-web-app-for-file-interactions-using-rag-a-developers-guide-aeaed58de536)
+* [Exploring the World of Vector Databases: A Comprehensive Guide](https://medium.com/walmartglobaltech/exploring-the-world-of-vector-databases-a-comprehensive-guide-8df108abfbca)
+* [Using Predictive and Gen AI to Improve Product Categorization at Walmart](https://medium.com/walmartglobaltech/using-predictive-and-gen-ai-to-improve-product-categorization-at-walmart-dc9821c6a481)
 * [AI-Driven Continuous Monitoring: The Future of Third-Party Risk Management](https://medium.com/walmartglobaltech/ai-driven-continuous-monitoring-the-future-of-third-party-risk-management-01e40e789d99)
 * [Build your own GPT (BYO-GPT)](https://medium.com/walmartglobaltech/build-your-own-gpt-byo-gpt-bb440c98d36f)
 * [Textual Titans: A Large Language Model Odyssey](https://medium.com/walmartglobaltech/textual-titans-a-large-language-model-odyssey-d36eab1e2743)
