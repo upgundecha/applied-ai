@@ -32,6 +32,9 @@ Numerous organizations frequently share their insights and expertise, encompassi
 
 #### 2024
 
+* [Airbnb’s AI-powered photo tour using Vision Transformer](https://medium.com/airbnb-engineering/airbnbs-ai-powered-photo-tour-using-vision-transformer-e470535f76d4)
+* [Automation Platform v2: Improving Conversational AI at Airbnb](https://medium.com/airbnb-engineering/automation-platform-v2-improving-conversational-ai-at-airbnb-d86c9386e0cb)
+* [Transforming Location Retrieval at Airbnb: A Journey from Heuristics to Reinforcement Learning](https://medium.com/airbnb-engineering/transforming-location-retrieval-at-airbnb-a-journey-from-heuristics-to-reinforcement-learning-d33ffc4ddb8f)
 * [Chronon, Airbnb’s ML Feature Platform, Is Now Open Source](https://medium.com/airbnb-engineering/chronon-airbnbs-ml-feature-platform-is-now-open-source-d9c4dba859e8)
 * [Airbnb Brandometer: Powering Brand Perception Measurement on Social Media Data with AI](https://medium.com/airbnb-engineering/airbnb-brandometer-powering-brand-perception-measurement-on-social-media-data-with-ai-c83019408051)
 
@@ -77,6 +80,17 @@ Numerous organizations frequently share their insights and expertise, encompassi
 </details>
 
 <details>
+  <summary>Asana</summary>
+
+### Blog Posts
+
+#### 2024
+
+* [Asana supercharges work management with Claude](https://www.anthropic.com/customers/asana)
+
+</details>
+
+<details>
   <summary>Asos</summary>
 
 ### Blog Posts
@@ -106,6 +120,28 @@ Numerous organizations frequently share their insights and expertise, encompassi
 #### 2022
 
 * [Real-Time Personalisation of Search Results with Auto Trader's Customer Data Platform](https://engineering.autotrader.co.uk/2022/11/23/real-time-personalisation-of-search-results-with-auto-traders-customer-data-platform.html)
+
+</details>
+
+<details>
+  <summary>Brian Impact Foundation</summary>
+
+### Blog Posts
+
+#### 2024
+
+* [Brian Impact Foundation powers their search for the next generation of social innovators with Claude](https://www.anthropic.com/customers/brian-impact-foundation)
+ 
+</details>
+
+<details>
+  <summary>Coinbase</summary>
+
+### Blog Posts
+
+#### 2024
+
+* [Coinbase enhances customer support and operational efficiency with Claude](https://www.anthropic.com/customers/coinbase)
 
 </details>
 
@@ -266,6 +302,45 @@ Numerous organizations frequently share their insights and expertise, encompassi
 </details>
 
 <details>
+  <summary>GitLab</summary>
+
+### Blog Posts
+
+#### 2024
+
+* [GitLab enhances productivity with Claude](https://www.anthropic.com/customers/gitlab-enterprise)
+* [Building GitLab with GitLab: A multi-region service to deliver AI features](https://about.gitlab.com/blog/2024/09/12/building-gitlab-with-gitlab-a-multi-region-service-to-deliver-ai-features/)
+
+</details>
+
+<details>
+  <summary>Grab</summary>
+
+### Blog Posts
+
+#### 2024
+
+* [LLM-assisted vector similarity search](https://engineering.grab.com/llm-assisted-vector-similarity-search)
+* [Leveraging RAG-powered LLMs for Analytical Tasks](https://engineering.grab.com/transforming-the-analytics-landscape-with-RAG-powered-LLM)
+* [Evolution of Catwalk: Model serving platform at Grab](https://engineering.grab.com/catwalk-evolution)
+* [Enabling conversational data discovery with LLMs at Grab](https://engineering.grab.com/hubble-data-discovery)
+* [Unveiling the process: The creation of our powerful campaign builder](https://engineering.grab.com/the-creation-of-our-powerful-campaign-builder)
+* [LLM-powered data classification for data entities at scale](https://engineering.grab.com/llm-powered-data-classification)
+
+</details>
+
+<details>
+  <summary>Gumroad</summary>
+
+### Blog Posts
+
+#### 2024
+
+* [Gumroad’s customer support team ships code with Claude](https://www.anthropic.com/customers/gumroad)
+
+</details>
+
+<details>
   <summary>Instacart</summary>
 
 ### Blog Posts
@@ -298,7 +373,8 @@ Numerous organizations frequently share their insights and expertise, encompassi
 
 #### 2024
 
-* [LM-based Approach to Large-scale Item Category Classification](https://engineering.mercari.com/en/blog/entry/20240411-large-scale-item-categoraization-using-llm/)
+* [Fine-Tuning an LLM to Extract Dynamically Specified Attributes](https://engineering.mercari.com/en/blog/entry/20240913-fine-tuning-an-llm-to-extract-dynamically-specified-attributes/)
+* [LMM based Approach to Large-scale Item Category Classification](https://engineering.mercari.com/en/blog/entry/20240411-large-scale-item-categoraization-using-llm/)
 
 #### 2023
 
@@ -361,6 +437,30 @@ Numerous organizations frequently share their insights and expertise, encompassi
 </details>
 
 <details>
+  <summary>Notion</summary>
+
+### Blog Posts
+
+#### 2024
+
+* [Notion creates more intelligent workspaces with Claude](https://www.anthropic.com/customers/notion)
+* [AI is the new plastic](https://www.notion.so/blog/ai-is-the-new-plastic)
+* [Meet the new Notion AI. Get to know what it can do for you.](https://www.notion.so/blog/meet-the-new-notion-ai)
+
+</details>
+
+<details>
+  <summary>Scribd</summary>
+
+### Blog Posts
+
+#### 2024
+
+* [Scribd, Inc. boosts content discovery and engagement with Claude](https://www.anthropic.com/customers/scribd)
+
+</details>
+
+<details>
   <summary>Slalom Build</summary>
 
 ### Blog Posts
@@ -381,12 +481,28 @@ Numerous organizations frequently share their insights and expertise, encompassi
 </details>
 
 <details>
+  <summary>Sourcegraph</summary>
+
+### Blog Posts
+
+#### 2024
+
+* [Sourcegraph enhances the intelligence and speed of their AI-powered coding assistant with Claude](https://www.anthropic.com/customers/sourcegraph)
+
+
+
+</details>
+
+<details>
   <summary>Uber</summary>
 
 ### Blog Posts
 
 #### 2024
 
+* [Open Source and In-House: How Uber Optimizes LLM Training](https://www.uber.com/en-IN/blog/open-source-and-in-house-how-uber-optimizes-llm-training/?uclick_id=196a1a2f-a8bd-4775-b284-b1474fb56140)
+* [Genie: Uber’s Gen AI On-Call Copilot](https://www.uber.com/en-IN/blog/genie-ubers-gen-ai-on-call-copilot/?uclick_id=196a1a2f-a8bd-4775-b284-b1474fb56140)
+* [QueryGPT – Natural Language to SQL Using Generative AI](https://www.uber.com/en-IN/blog/query-gpt/?uclick_id=196a1a2f-a8bd-4775-b284-b1474fb56140)
 * [Personalized Marketing at Scale: Uber’s Out-of-App Recommendation System](https://www.uber.com/en-GB/blog/personalized-marketing-at-scale/)
 * [DataK9: Auto-categorizing an exabyte of data at field level through AI/ML](https://www.uber.com/en-SG/blog/auto-categorizing-data-through-ai-ml/?uclick_id=cf07346d-69fb-4a27-b296-493734813d6a)
 * [From Predictive to Generative – How Michelangelo Accelerates Uber’s AI Journey](https://www.uber.com/en-SG/blog/from-predictive-to-generative-ai/?uclick_id=cf07346d-69fb-4a27-b296-493734813d6a)
