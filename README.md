@@ -430,6 +430,19 @@ Numerous organizations frequently share their insights and expertise, encompassi
 </details>
 
 <details>
+  <summary>Mercado Libre</summary>
+
+### Blog Posts
+
+#### 2024
+
+* [Mercado Libre introduces Verdi, an AI developer platform powered by GPT-4o](https://openai.com/index/mercado-libre/)
+* [Accelerating the AI-Driven Future with Data Governance at the Wheel](https://medium.com/mercadolibre-tech/accelerating-the-ai-driven-future-with-data-governance-at-the-wheel-a1d90b6b4b0b)
+* [Beyond the Hype: Real-World Lessons and Insights from Working with Large Language Models](https://medium.com/mercadolibre-tech/beyond-the-hype-real-world-lessons-and-insights-from-working-with-large-language-models-6d637e39f8f8)
+
+</details>
+
+<details>
   <summary>Mercari</summary>
 
 ### Blog Posts
@@ -450,19 +463,6 @@ Numerous organizations frequently share their insights and expertise, encompassi
 * [Model management for client side ML powered by Firebase](https://engineering.mercari.com/en/blog/entry/20230417-model-management-for-client-side-ml-powered-by-firebase/)
 * [The Journey to Machine-Learned Re-ranking](https://engineering.mercari.com/en/blog/entry/20230101-the-journey-to-machine-learned-re-ranking/)
 * [Do We Need Engineers in a ChatGPT World?](https//engineering.mercari.com/en/blog/entry/20221215-do-we-need-engineers-in-a-chatgpt-world/)
-
-</details>
-
-<details>
-  <summary>Mercado Libre</summary>
-
-### Blog Posts
-
-#### 2024
-
-* [Mercado Libre introduces Verdi, an AI developer platform powered by GPT-4o](https://openai.com/index/mercado-libre/)
-* [Accelerating the AI-Driven Future with Data Governance at the Wheel](https://medium.com/mercadolibre-tech/accelerating-the-ai-driven-future-with-data-governance-at-the-wheel-a1d90b6b4b0b)
-* [Beyond the Hype: Real-World Lessons and Insights from Working with Large Language Models](https://medium.com/mercadolibre-tech/beyond-the-hype-real-world-lessons-and-insights-from-working-with-large-language-models-6d637e39f8f8)
 
 </details>
 
