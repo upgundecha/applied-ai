@@ -706,11 +706,17 @@ Numerous organizations frequently share their insights and expertise, encompassi
 
 ## Other Resources
 
-Following resources from AI vendors such as Open AI, Anthropic, Databricks offer great insights on how companies are building AI solutions for business problems
+### Case Studies from vendors
+
+Following resources from AI vendors like OpenAI, Anthropic, and Databricks provide valuable insights into how businesses are leveraging AI to solve complex challenges and drive innovation.
 
 * [OpenAI](https://openai.com/news/stories/)
 * [Anthropic](https://www.anthropic.com/customers)
 * [Databricks](https://www.databricks.com/customers/all)
+
+### ML and LLM System Design Catalog
+
+* [ML and LLM system design: 500 case studies to learn from](https://www.evidentlyai.com/ml-system-design)
 
 ## Contributors
 
