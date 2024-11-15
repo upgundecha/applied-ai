@@ -80,6 +80,17 @@ Numerous organizations frequently share their insights and expertise, encompassi
 </details>
 
 <details>
+  <summary>Altera.ai</summary>
+
+### Blog Posts
+
+#### 2024
+
+* [Altera uses GPT-4o to build a new area of human collaboration](https://openai.com/index/altera/)
+
+</details>
+
+<details>
   <summary>Asana</summary>
 
 ### Blog Posts
@@ -149,6 +160,21 @@ Numerous organizations frequently share their insights and expertise, encompassi
 </details>
 
 <details>
+  <summary>Canva</summary>
+
+### Blog Posts
+
+#### 2024
+
+* [Canva’s AI-powered Magic Studio used 5 billion times and counting.](https://openai.com/index/canva/)
+
+#### 2023
+
+* [Summarizing Post Incident Reviews with GPT-4](https://www.canva.dev/blog/engineering/summarise-post-incident-reviews-with-gpt4/)
+
+</details>
+
+<details>
   <summary>Coinbase</summary>
 
 ### Blog Posts
@@ -213,6 +239,17 @@ Numerous organizations frequently share their insights and expertise, encompassi
 * [Sherlock.io: An Upgraded Machine Learning Monitoring System](https://innovation.ebayinc.com/tech/engineering/sherlock.io-an-upgraded-machine-learning-monitoring-system/)
 * [Improving Shopping Recommendations for Customers Through eBay’s Relevance Cascade Model](https://innovation.ebayinc.com/tech/engineering/improving-shopping-recommendations-for-customers-through-ebays-relevance-cascade-model/)
 * [Building a Deep Learning Based Retrieval System for Personalized Recommendations](https://innovation.ebayinc.com/tech/engineering/building-a-deep-learning-based-retrieval-system-for-personalized-recommendations/)
+
+</details>
+
+<details>
+  <summary>Estee Lauder</summary>
+
+### Blog Posts
+
+#### 2024
+
+* [Data-driven beauty: How The Estée Lauder Companies unlocks insights with ChatGP](https://openai.com/index/estee-lauder/)
 
 </details>
 
@@ -417,6 +454,19 @@ Numerous organizations frequently share their insights and expertise, encompassi
 </details>
 
 <details>
+  <summary>Mercado Libre</summary>
+
+### Blog Posts
+
+#### 2024
+
+* [Mercado Libre introduces Verdi, an AI developer platform powered by GPT-4o](https://openai.com/index/mercado-libre/)
+* [Accelerating the AI-Driven Future with Data Governance at the Wheel](https://medium.com/mercadolibre-tech/accelerating-the-ai-driven-future-with-data-governance-at-the-wheel-a1d90b6b4b0b)
+* [Beyond the Hype: Real-World Lessons and Insights from Working with Large Language Models](https://medium.com/mercadolibre-tech/beyond-the-hype-real-world-lessons-and-insights-from-working-with-large-language-models-6d637e39f8f8)
+
+</details>
+
+<details>
   <summary>Meta</summary>
 
 ### Blog Posts
@@ -470,6 +520,18 @@ Numerous organizations frequently share their insights and expertise, encompassi
 #### 2024
 
 * [Anatomy of a Copilot](https://www.microsoft.com/en-us/worklab/anatomy-of-a-copilot)
+
+</details>
+
+<details>
+  <summary>Morgan Stanley</summary>
+
+### Blog Posts and Sites
+
+#### 2024
+
+* [Morgan Stanley wealth management deploys GPT-4 to organize its vast knowledge base](https://openai.com/index/morgan-stanley/)
+* [Machine Learning Research](https://www.morganstanley.com/about-us/technology/machine-learning-research-team)
 
 </details>
 
@@ -625,6 +687,30 @@ Numerous organizations frequently share their insights and expertise, encompassi
 * [Saving and Retrieving ML Models Using PySpark in Cloud Platform](https://medium.com/walmartglobaltech/saving-and-retrieving-ml-models-using-pyspark-in-cloud-platform-d8b1db9e91b1)
 
 </details>
+
+<details>
+  <summary>Wix</summary>
+
+### Blog Posts
+
+#### 2024
+
+* [Wix streamlines website content creation with GPT.](https://openai.com/index/wix/)
+* [Real-World Forecasting with Deep Learning: How We Do It at Wix](https://www.wix.engineering/post/real-world-forecasting-with-deep-learning-how-we-do-it-at-wix)
+* [Customizing LLMs for Enterprise Data Using Domain Adaptation: The Wix Journey](https://www.wix.engineering/post/customizing-llms-for-enterprise-data-using-domain-adaptation-the-wix-journey)
+* [AI for Revolutionizing Customer Care Routing System at Wix](https://www.wix.engineering/post/ai-for-revolutionizing-customer-care-routing-system-at-wix)
+* [SageMaker Batch Transform Unleashed: My Journey at Wix to Achieve Scalable ML](https://www.wix.engineering/post/sagemaker-batch-transform-unleashed-my-journey-at-wix-to-achieve-scalable-ml)
+* [Beyond Content Generation: AI-Based Layout Generation for Graphic Design](https://www.wix.engineering/post/beyond-content-generation-ai-based-layout-generation-for-graphic-design)
+
+</details>
+
+## Other Resources
+
+Following resources from AI vendors such as Open AI, Anthropic, Databricks offer great insights on how companies are building AI solutions for business problems
+
+* [OpenAI](https://openai.com/news/stories/)
+* [Anthropic](https://www.anthropic.com/customers)
+* [Databricks](https://www.databricks.com/customers/all)
 
 ## Contributors
 

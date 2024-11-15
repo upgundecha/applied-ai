@@ -20,6 +20,7 @@ describe('Checklist', function() {
       const expectedH2List = [
         '## Introduction',
         '## Organizations',
+        '## Other Resources',
         '## Contributors',
         '## Contribute',
         '## Stargazers Over Time',
