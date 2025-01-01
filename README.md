@@ -80,6 +80,17 @@ Numerous organizations frequently share their insights and expertise, encompassi
 </details>
 
 <details>
+  <summary>ANZ Bank</summary>
+
+### Research Papers
+
+#### 2024
+
+* [The Impact of AI Tool on Engineering at ANZ Bank An Empirical Study on GitHub Copilot within Corporate Environment](https://arxiv.org/abs/2402.05636)
+
+</details>
+
+<details>
   <summary>Altera.ai</summary>
 
 ### Blog Posts
