@@ -706,10 +706,11 @@ Numerous organizations frequently share their insights and expertise, encompassi
 
 #### 2024
 
+* [How Wix’s AI Site-Chat Redefines Chatbots with Adaptive Feedback and Dynamic Knowledge](https://www.wix.engineering/post/how-wix-s-ai-site-chat-redefines-chatbots-with-adaptive-feedback-and-dynamic-knowledge)
+* [AI for Customer Care Routing at Wix - Making The First Step of Reinforcement Learning](https://www.wix.engineering/post/ai-for-customer-care-routing-at-wix-making-the-first-step-of-reinforcement-learning)
 * [Wix streamlines website content creation with GPT.](https://openai.com/index/wix/)
 * [Real-World Forecasting with Deep Learning: How We Do It at Wix](https://www.wix.engineering/post/real-world-forecasting-with-deep-learning-how-we-do-it-at-wix)
 * [Customizing LLMs for Enterprise Data Using Domain Adaptation: The Wix Journey](https://www.wix.engineering/post/customizing-llms-for-enterprise-data-using-domain-adaptation-the-wix-journey)
-* [AI for Revolutionizing Customer Care Routing System at Wix](https://www.wix.engineering/post/ai-for-revolutionizing-customer-care-routing-system-at-wix)
 * [SageMaker Batch Transform Unleashed: My Journey at Wix to Achieve Scalable ML](https://www.wix.engineering/post/sagemaker-batch-transform-unleashed-my-journey-at-wix-to-achieve-scalable-ml)
 * [Beyond Content Generation: AI-Based Layout Generation for Graphic Design](https://www.wix.engineering/post/beyond-content-generation-ai-based-layout-generation-for-graphic-design)
 
@@ -717,16 +718,14 @@ Numerous organizations frequently share their insights and expertise, encompassi
 
 ## Other Resources
 
-### Case Studies from vendors
+### Case Studies from vendors and industry
 
 Following resources from AI vendors like OpenAI, Anthropic, and Databricks provide valuable insights into how businesses are leveraging AI to solve complex challenges and drive innovation.
 
 * [OpenAI](https://openai.com/news/stories/)
 * [Anthropic](https://www.anthropic.com/customers)
 * [Databricks](https://www.databricks.com/customers/all)
-
-### ML and LLM System Design Catalog
-
+* [321 real-world gen AI use cases from the world's leading organizations](https://cloud.google.com/transform/101-real-world-generative-ai-use-cases-from-industry-leaders)
 * [ML and LLM system design: 500 case studies to learn from](https://www.evidentlyai.com/ml-system-design)
 
 ## Contributors
