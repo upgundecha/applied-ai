@@ -201,8 +201,14 @@ Numerous organizations frequently share their insights and expertise, encompassi
 
 ### Blog Posts
 
+#### 2025
+
+* [Building Dash: How RAG and AI agents help us meet the needs of businesses](https://dropbox.tech/machine-learning/building-dash-rag-multi-step-ai-agents-business-users)
+* 
+
 #### 2024
 
+* [How we use Lakera Guard to secure our LLMs](https://dropbox.tech/security/how-we-use-lakera-guard-to-secure-our-llms)
 * [Bye Bye Bye...: Evolution of repeated token attacks on ChatGPT models](https://dropbox.tech/machine-learning/bye-bye-bye-evolution-of-repeated-token-attacks-on-chatgpt-models)
 * [Bringing AI-powered answers and summaries to file previews on the web](https://dropbox.tech/machine-learning/bringing-ai-powered-answers-and-summaries-to-file-previews-on-the-web)
 * [From AI to sustainability, why our latest data centers use 400G networking](https://dropbox.tech/infrastructure/from-ai-to-sustainability-why-our-latest-data-centers-use-400g-networking)
@@ -380,8 +386,17 @@ Numerous organizations frequently share their insights and expertise, encompassi
 
 ### Blog Posts
 
+#### 2025
+
+* [From failure to success: The birth of GrabGPT, Grab’s internal ChatGPT](https://engineering.grab.com/the-birth-of-grab-gpt)
+* [Streamlining RiskOps with the SOP agent framework](https://engineering.grab.com/streamlining-riskops-with-sop)
+* [Introducing the SOP-driven LLM agent frameworks](https://engineering.grab.com/introducing-the-sop-drive-llm-agent-framework)
+* [Grab AI Gateway: Connecting Grabbers to multiple GenAI providers](https://engineering.grab.com/grab-ai-gateway)
+
 #### 2024
 
+* [Supercharging LLM application development with LLM-Kit](https://engineering.grab.com/supercharging-llm-application-development-with-llm-kit)
+* [Metasense V2: Enhancing, improving and productionisation of LLM powered data governance](https://engineering.grab.com/metasense-v2)
 * [LLM-assisted vector similarity search](https://engineering.grab.com/llm-assisted-vector-similarity-search)
 * [Leveraging RAG-powered LLMs for Analytical Tasks](https://engineering.grab.com/transforming-the-analytics-landscape-with-RAG-powered-LLM)
 * [Evolution of Catwalk: Model serving platform at Grab](https://engineering.grab.com/catwalk-evolution)
@@ -458,8 +473,17 @@ Numerous organizations frequently share their insights and expertise, encompassi
 
 ### Blog Posts
 
+#### 2025
+
+* [Rethink Tool's UI/UX - Human-Centric to AI-Driven](https://engineering.mercari.com/en/blog/entry/20250527-rethink-tools-ui-ux-human-centric-to-ai-driven/)
+* [Tackling Knowledge Management](https://engineering.mercari.com/en/blog/entry/20241202-6c83b3dd89/)
+* [LLM x SRE: Mercari’s Next-gen Incident Handling Buddy](https://engineering.mercari.com/en/blog/entry/20250206-llm-sre-incident-handling-buddy/)
+
 #### 2024
 
+* [LLMs at Work: Outsourcing Vendor Assessment Toil to AI](https://engineering.mercari.com/en/blog/entry/20241215-llms-at-work/)
+* [Streamlining Security Incident Response with Automation and Large Language Models](https://engineering.mercari.com/en/blog/entry/20241206-streamlining-security-incident-response-with-automation-and-large-language-models/)
+* [Fine-tuned SigLIP Image Embeddings for Similar Looks Recommendation in a Japanese C2C Marketplace](https://engineering.mercari.com/en/blog/entry/20241104-similar-looks-recommendation-via-vision-language-model/)
 * [Fine-Tuning an LLM to Extract Dynamically Specified Attributes](https://engineering.mercari.com/en/blog/entry/20240913-fine-tuning-an-llm-to-extract-dynamically-specified-attributes/)
 * [LMM based Approach to Large-scale Item Category Classification](https://engineering.mercari.com/en/blog/entry/20240411-large-scale-item-categoraization-using-llm/)
 
@@ -563,6 +587,11 @@ Numerous organizations frequently share their insights and expertise, encompassi
   <summary>Nubank</summary>
 
 ### Blog Posts
+
+#### 2025
+
+* [AskNu: A RAG solution to increase Employees Productivity at Nubank](https://building.nubank.com/ai-solution-for-search/)
+* [Enhancing engineering workflows with AI: a real-world experience](https://building.nubank.com/enhancing-engineering-workflows-with-ai-a-real-world-experience/)
 
 #### 2024
 
